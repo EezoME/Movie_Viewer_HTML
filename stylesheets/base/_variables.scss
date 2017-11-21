@@ -1,7 +1,8 @@
 //$varibles color and sizes
-$black: rgb(32, 32, 32);
+$black: #000;
 $text-alt: rgb(109, 105, 99);
 $white: #fff;
+
 $dark-bg: #262525;
 $light-bg: #f7f7f7;
 $base-color: #b99458;
@@ -13,9 +14,9 @@ $font-grey: #6d6963;
 $sp-gray-text: #555;
 $font-light-grey: #aeaeae;
 
-$font: "Avenir LT Std Roman";
-$bold: "Simplon BP Bold";
-$uni: 'Uni Sans Semibold';
-$uniBold: 'Uni Sans Bold';
-$catalog: 'Catalog';
+$font: "Ubuntu";
+$bold: "Ubuntu Bold";
+$light: "Ubuntu Light";
+$condensed: "Ubuntu Condensed";
+$medium: "Ubuntu Medium";
 $fa: 'FontAwesome';
